@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="16" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="20" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="21" pc="268435502" symbol="initialize"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="26" pc="268435517" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="28" pc="268435544" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="29" pc="268435561" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="30" pc="268435568" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="31" pc="268435578" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="31" pc="268435585" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="32" pc="268435595" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="33" pc="268435605" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="33" pc="268435612" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="34" pc="268435622" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="35" pc="268435635" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="36" pc="268435648" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="37" pc="268435655" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="38" pc="268435666" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="41" pc="268435676" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="42" pc="268435704" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="46" pc="268435745" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="47" pc="268435773" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="54" pc="268435808" symbol="updateColor"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="63" pc="268435871" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="64" pc="268435888" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="65" pc="268435895" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="66" pc="268435905" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="66" pc="268435912" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="67" pc="268435922" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="68" pc="268435932" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="68" pc="268435939" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="69" pc="268435949" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="70" pc="268435962" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="71" pc="268435975" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="74" pc="268435982" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="75" pc="268436010" symbol="draw"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="83" pc="268436051" symbol="checkColor"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="84" pc="268436058" symbol="checkColor"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/RectangleStepsView.mc" lineNum="87" pc="268436064" symbol="checkColor"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="16" pc="268436070" symbol="initialize"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="22" pc="268436091" symbol="onLayout"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="23" pc="268436128" symbol="onLayout"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="28" pc="268436174" symbol="getSettings"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="29" pc="268436186" symbol="getSettings"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="31" pc="268436190" symbol="getSettings"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="32" pc="268436200" symbol="getSettings"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="33" pc="268436224" symbol="getSettings"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="46" pc="268436242" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="47" pc="268436263" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="50" pc="268436277" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="52" pc="268436298" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="53" pc="268436315" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="54" pc="268436389" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="55" pc="268436413" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="58" pc="268436427" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="59" pc="268436471" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="60" pc="268436495" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="61" pc="268436555" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="64" pc="268436569" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="65" pc="268436586" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="66" pc="268436610" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="67" pc="268436634" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="68" pc="268436651" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="69" pc="268436675" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="72" pc="268436695" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="73" pc="268436719" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="75" pc="268436736" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="76" pc="268436794" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="79" pc="268436808" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="81" pc="268436828" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="82" pc="268436855" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectView.mc" lineNum="83" pc="268436891" symbol="onUpdate"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectApp.mc" lineNum="9" pc="268436936" symbol="initialize"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectApp.mc" lineNum="23" pc="268436963" symbol="getInitialView"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectApp.mc" lineNum="24" pc="268436993" symbol="getInitialView"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectApp.mc" lineNum="28" pc="268437019" symbol="onSettingsChanged"/>
+<entry filename="/Users/Edward/Documents/Design/Watch/workspace/NewProject/source/NewProjectApp.mc" lineNum="29" pc="268437035" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="33" pc="268437054" symbol="initialize"/>
+<entry filename="Rez" lineNum="37" pc="268437081" symbol="draw"/>
+<entry filename="Rez" lineNum="38" pc="268437088" symbol="draw"/>
+<entry filename="Rez" lineNum="39" pc="268437095" symbol="draw"/>
+<entry filename="Rez" lineNum="40" pc="268437108" symbol="draw"/>
+<entry filename="Rez" lineNum="41" pc="268437121" symbol="draw"/>
+<entry filename="Rez" lineNum="45" pc="268437146" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="46" pc="268437182" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="47" pc="268437238" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="49" pc="268437274" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="50" pc="268437310" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="64" pc="268437438" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="65" pc="268437474" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="66" pc="268437485" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="68" pc="268437501" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="69" pc="268437515" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="70" pc="268437625" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="71" pc="268437640" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="72" pc="268437692" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="73" pc="268437706" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="74" pc="268437816" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="75" pc="268437831" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="76" pc="268437883" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="77" pc="268437897" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="78" pc="268438007" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="79" pc="268438022" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="80" pc="268438074" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="81" pc="268438088" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="82" pc="268438198" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="83" pc="268438213" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="84" pc="268438265" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="85" pc="268438308" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="86" pc="268438335" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="88" pc="268438351" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="20" object="true" symbol="MainBackground"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="23" symbol="ColorBlue"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="29" symbol="ColorOrange"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="39" symbol="settingsChanged"/>
+<entry field="true" id="37" symbol="ColorGreen"/>
+<entry field="true" id="30" symbol="ColorYellow"/>
+<entry field="true" id="36" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="28" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="32" symbol="ColorDarkGreen"/>
+<entry id="21" method="true" symbol="drawComplex"/>
+<entry field="true" id="35" symbol="ColorPink"/>
+<entry field="true" id="33" symbol="ColorRed"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="18" symbol="id_blue"/>
+<entry field="true" id="40" symbol="rectangleView"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry id="10" object="true" symbol="NewProjectApp"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8" object="true" symbol="RectangleStepsView"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="13" symbol="myWidth"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="38" symbol="bluetoothLogo"/>
+<entry field="true" id="25" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="27" symbol="lineColorTitle"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="22" symbol="ColorLightGray"/>
+<entry id="8389347" symbol="color"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry field="true" id="26" symbol="ColorDarkBlue"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="15" method="true" symbol="checkColor"/>
+<entry id="41" method="true" symbol="getSettings"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="9" object="true" symbol="NewProjectView"/>
+<entry id="14" method="true" symbol="updateColor"/>
+<entry field="true" id="42" symbol="cjx"/>
+<entry id="12" symbol="mRectangle"/>
+<entry id="11" symbol="mMaxWidth"/>
+<entry field="true" id="24" symbol="ColorDarkRed"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="34" symbol="ColorPurple"/>
+<entry id="8389661" symbol="maxWidth"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435739" name="steps" stackId="3" startPc="268435568"/>
+<entry endPc="268435739" name="fraction" stackId="5" startPc="268435568"/>
+<entry endPc="268435739" name="stepGoal" stackId="4" startPc="268435568"/>
+<entry endPc="268435742" name="actInfo" stackId="2" startPc="268435544"/>
+<entry endPc="268436045" name="steps" stackId="3" startPc="268435895"/>
+<entry endPc="268436045" name="fraction" stackId="5" startPc="268435895"/>
+<entry endPc="268436045" name="stepGoal" stackId="4" startPc="268435895"/>
+<entry endPc="268436048" name="actInfo" stackId="2" startPc="268435871"/>
+<entry endPc="268436236" name="rectangle" stackId="2" startPc="268436174"/>
+<entry endPc="268436924" name="timeString" stackId="3" startPc="268436242"/>
+<entry endPc="268436924" name="batteryString" stackId="11" startPc="268436242"/>
+<entry endPc="268436924" name="dateLabel" stackId="6" startPc="268436242"/>
+<entry endPc="268436924" name="batLabel" stackId="9" startPc="268436242"/>
+<entry endPc="268436924" name="clockTime" stackId="2" startPc="268436242"/>
+<entry endPc="268436924" name="warningLabel" stackId="10" startPc="268436242"/>
+<entry endPc="268436924" name="view" stackId="4" startPc="268436242"/>
+<entry endPc="268436924" name="nowInfo" stackId="5" startPc="268436242"/>
+<entry endPc="268436924" name="nowString" stackId="7" startPc="268436242"/>
+<entry endPc="268436924" name="batteryLevel" stackId="8" startPc="268436242"/>
+<entry endPc="268437143" name="pWidth" stackId="4" startPc="268437081"/>
+<entry endPc="268437143" name="pY" stackId="3" startPc="268437081"/>
+<entry endPc="268437143" name="pX" stackId="2" startPc="268437081"/>
+<entry endPc="268437143" name="pHeight" stackId="5" startPc="268437081"/>
+<entry endPc="268438418" name="rez_cmp_local_label_WarningLabel" stackId="10" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_drawable_reference_MainBackground" stackId="2" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_DateLabel_font" stackId="6" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_BatteryLabel" stackId="13" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_WarningLabel_fontHeight" stackId="11" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_BatteryLabel_font" stackId="12" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="8" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_DateLabel" stackId="7" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_custom_drawable_rectangle" stackId="15" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_BatteryLabel_fontHeight" stackId="14" startPc="268437438"/>
+<entry endPc="268438418" name="rez_cmp_local_label_WarningLabel_font" stackId="9" startPc="268437438"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="RectangleStepsView">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="RectangleStepsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="updateColor" parent="RectangleStepsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="RectangleStepsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="checkColor" parent="RectangleStepsView">
+<param id="c"/>
+<param id="defcolor"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NewProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="NewProjectView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getSettings" parent="NewProjectView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="NewProjectView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="NewProjectView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="NewProjectView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="NewProjectView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="NewProjectView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="NewProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="NewProjectApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="NewProjectApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="NewProjectApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="NewProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainBackground">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="MainBackground">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="MainBackground">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

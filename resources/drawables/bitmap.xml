@@ -1,0 +1,7 @@
+ <resources>
+    <bitmap id="id_blue" filename="bluetooth.png" >
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+ </resources>

@@ -1,0 +1,5 @@
+<resources>
+    <drawable-list id="MainBackground" x="center" y="center" width="fill" height="fill" background="Gfx.COLOR_BLACK">
+        <shape type="rectangle" x="center" y="120" height="2" width="150" color="Gfx.COLOR_DK_GRAY" />
+    </drawable-list>
+</resources>

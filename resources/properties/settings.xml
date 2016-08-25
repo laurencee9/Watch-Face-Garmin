@@ -1,0 +1,18 @@
+<settings>
+
+    <setting propertyKey="@Properties.lineColor" title="@Strings.lineColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>     
+            <listEntry value="0x00AA00">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0x00AAFF">@Strings.ColorBlue</listEntry>   
+            <listEntry value="0x0000FF">@Strings.ColorDarkBlue</listEntry>
+          	 <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>   
+            <listEntry value="0xAA0000">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
+            <listEntry value="0xFFAA00">@Strings.ColorYellow</listEntry>                        
+            <listEntry value="0xAA00FF">@Strings.ColorPurple</listEntry> 
+            <listEntry value="0xFF00FF">@Strings.ColorPink</listEntry> 
+        </settingConfig>
+    </setting> 
+ 
+</settings>
