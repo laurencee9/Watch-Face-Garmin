@@ -80,7 +80,7 @@ class NewProjectView extends Ui.WatchFace {
       	
       	if (Sys.getDeviceSettings().phoneConnected == true ){
       		dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_WHITE);
-        	dc.drawBitmap(160,2, bluetoothLogo);
+        	dc.drawBitmap(160,3, bluetoothLogo);
       	}
       	
       	

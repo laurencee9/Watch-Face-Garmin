@@ -2,6 +2,8 @@
     <bitmap id="id_blue" filename="bluetooth.png" >
     	<palette disableTransparency="false">
             <color>FFFFFF</color>
+            <color>EFEFEF</color>
+            <color>000000</color>
         </palette>
     </bitmap>
  </resources>
