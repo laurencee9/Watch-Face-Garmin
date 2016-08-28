@@ -34,8 +34,8 @@ class RectangleStepsView extends Ui.Drawable {
 				steps = steps.toFloat();
 				stepGoal = stepGoal.toFloat();
 				var fraction = steps/stepGoal;
-				if (fraction > 1) {
-					fraction = 1;
+				if (fraction >= 1.0) {
+					fraction = 1.0;
 				}
 
 				dc.setColor(mColor,mColor);
@@ -57,23 +57,30 @@ class RectangleStepsView extends Ui.Drawable {
 
     
     function draw(dc){
-    	
+    
+		if (Sys.getDeviceSettings().activityTrackingOn == true) {
+    		//Steps
+			var actInfo = AcMoni.getInfo();
+			if (actInfo != null) {
+				var steps = actInfo.steps;
+				if (steps == null) {steps = 0;}
+				var stepGoal = actInfo.stepGoal;
+				if (stepGoal == null) {stepGoal = 1;}
+				steps = steps.toFloat();
+				stepGoal = stepGoal.toFloat();
+				var fraction = steps/stepGoal;
+				if (fraction >= 1.0) {
+					fraction = 1.0;
+				}
 
-		
-		var actInfo = AcMoni.getInfo();
-		if (actInfo != null) {
-			var steps = actInfo.steps;
-			if (steps == null) {steps = 0;}
-			var stepGoal = actInfo.stepGoal;
-			if (stepGoal == null) {stepGoal = 1;}
-			steps = steps.toFloat();
-			stepGoal = stepGoal.toFloat();
-			var fraction = steps/stepGoal;
-			
-	
-			dc.setColor(mColor,mColor);
-    		dc.fillRectangle(32, 120, fraction*150, 2);
-		}
+				dc.setColor(mColor,mColor);
+	    		dc.fillRectangle(32, 120, fraction*150, 2);
+			}
+    	}
+    	else {
+    		dc.setColor(mColor,mColor);
+    		dc.fillRectangle(32, 120, 0, 2);
+    	}  
 	}
 	
 		
