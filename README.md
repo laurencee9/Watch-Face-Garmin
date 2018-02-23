@@ -1,14 +1,16 @@
 # Watch-Face-Garmin
 
 
-Basic watch face for Garmin watch
+Basic watch face for the Garmin Forerunner 230/235 watches, forked from https://github.com/laurencee9/Watch-Face-Garmin
 
-The code is a bit messy since it was my first attempt with Monkey C. 
+### Changes
+* Adding support for 12/24 hour clock.
+* Bigger clock numbers.
+* Battery stat only shows if < 10%, else show notification count.
+* Distance and calorie count displayed on top.
+* Sixtop.net branding when no step activity is detected.
 
-The watch face is available for free on
-
-https://apps.garmin.com/en-CA/apps/d10db1ae-9ecd-4219-92d4-a5b106636ca7
+### Preview with 24-hour clock, critical battery and half full activity bar:
+![alt tag](./thumbnail.png)
 
 *This project is licensed under the terms of the MIT license.*
-
-![alt tag](./thumbnail.png)

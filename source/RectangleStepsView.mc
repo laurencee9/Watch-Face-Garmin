@@ -22,11 +22,15 @@ class RectangleStepsView extends Ui.Drawable {
         
     }
     
-    function onUpdate( dc ) {
-    	if (Sys.getDeviceSettings().activityTrackingOn == true) {
+    function onUpdate( dc ) 
+    {
+		
+    	if (Sys.getDeviceSettings().activityTrackingOn == true) 
+    	{
     		//Steps
 			var actInfo = AcMoni.getInfo();
-			if (actInfo != null) {
+			if (actInfo != null) 
+			{
 				var steps = actInfo.steps;
 				if (steps == null) {steps = 0;}
 				var stepGoal = actInfo.stepGoal;
@@ -34,10 +38,10 @@ class RectangleStepsView extends Ui.Drawable {
 				steps = steps.toFloat();
 				stepGoal = stepGoal.toFloat();
 				var fraction = steps/stepGoal;
-				if (fraction >= 1.0) {
+				if (fraction >= 1.0) 
+				{
 					fraction = 1.0;
 				}
-
 				dc.setColor(mColor,mColor);
 	    		dc.fillRectangle(32, 120, fraction*150, 2);
 			}

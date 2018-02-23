@@ -1,9 +1,11 @@
 <layout id="WatchFace">
 	<drawable id="MainBackground" />
-	<label id="TimeLabel" x="center" y="50" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="ActivityLabel" x="center" y="0" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="TimeLabel" x="center" y="15" font="Gfx.FONT_NUMBER_THAI_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
     <label id="DateLabel" x="center" y="125" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
-    <label id="WarningLabel" x="center" y="19" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_RED" />
-    <label id="BatteryLabel" x="center" y="0" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="WarningLabel" x="50" y="160" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="InfoLabel" x="center" y="160" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="BatteryLabel" x="50" y="160" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
     <drawable id="rectangle" class="RectangleStepsView">
     	<param name="maxWidth">150</param>
     </drawable>
